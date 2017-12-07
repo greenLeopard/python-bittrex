@@ -1,0 +1,13 @@
+{
+  "parameters": {
+    "basecurrency": "BTC",
+    "fiat": "USD",
+    "history_length": 1000,
+    "history_period_seconds": 180,
+    "exchange": "bittrex"
+  },
+  "keys": {
+    "public": "2c76546df0324d04ae5d2ae2c382ea86",
+    "private": "8a596b19bbc54373ab0c26c9f7a42038"
+  }
+}
